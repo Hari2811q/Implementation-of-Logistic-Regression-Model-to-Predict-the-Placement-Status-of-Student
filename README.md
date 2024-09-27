@@ -89,28 +89,51 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
 PLACEMENT DATA:
+
 ![image](https://github.com/user-attachments/assets/652621df-9e68-4282-8905-f7569f535cba)
+
 SALARY DATA:
+
 ![image](https://github.com/user-attachments/assets/0d171efa-4cb8-453d-aa00-38469f04b765)
+
 CHECKING THE NULL() FUNCTION:]
+
 ![image](https://github.com/user-attachments/assets/5a5f17a9-65ee-4af2-93ea-77c6c26e6db5)
+
 DATA DUPLICATE:
+
 ![image](https://github.com/user-attachments/assets/a7e9885c-a20a-4c5b-9011-a6399c018c72)
+
 PRINT DATA:
+
 ![image](https://github.com/user-attachments/assets/928e236a-c490-4389-ad75-36b9c1d3f42b)
+
 DATA_STATUS:
+
 ![image](https://github.com/user-attachments/assets/4479af32-98f8-48e1-b423-5565c11a2423)
+
 DATA_STATUS:
+
 ![image](https://github.com/user-attachments/assets/f68c871e-daa9-420a-a81e-3026b4a517e5)
+
 Y_PREDICTION ARRAY:
+
 ![image](https://github.com/user-attachments/assets/f8950889-f6e6-440c-aa15-75bd56f34ba2)
+
 ACCURACY VALUE:
+
 ![image](https://github.com/user-attachments/assets/071c639a-c319-43b7-8f5a-225c36f32919)
+
 CONFUSION ARRAY:
+
 ![image](https://github.com/user-attachments/assets/82ae29d8-db98-4615-aec6-d8fd57172228)
+
 CLASSIFICATION REPORT:
+
 ![image](https://github.com/user-attachments/assets/9e1f44e9-eb1c-4821-905e-8aaf611b284b)
+
 PREDICTION OF LR:
+
 ![image](https://github.com/user-attachments/assets/b4ffa7ab-409c-4244-bcad-791d554e9d6c)
 
 
